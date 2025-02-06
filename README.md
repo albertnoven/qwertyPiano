@@ -1,4 +1,4 @@
-qwertyPiano
+#qwertyPiano
 A musical instrument using a computer keyboard with customizable key mappings and sound files of your choice.
 
 On lines 87 to 89, you can customize your keyboard by selecting your own key mapping and choosing the .wav file that will represent the sound of your instrument.
